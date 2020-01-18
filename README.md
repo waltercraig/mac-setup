@@ -16,6 +16,7 @@ Some setup after a clean install.
 ### Hyper
 * Hack here: ~/Library/Application Support/Hyper/.hyper.js
 * Install: https://hyper.is/plugins/hyperpower
+* Install: https://hyper.is/plugins/hyperocean
 
 ### Visual Studio install 
 Open from command line ⇧+⌘+P and type shell command then select Install 'code' command in PATH. Bingo

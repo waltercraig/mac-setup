@@ -1,3 +1,5 @@
+[![source.gif](https://media.giphy.com/media/11ISwbgCxEzMyY/source.gif)](https://github.com/waltercraig/mac-setup)
+
 # Mac Setup
 Some setup after a clean install.
 

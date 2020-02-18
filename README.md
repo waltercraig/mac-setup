@@ -11,6 +11,7 @@ Some setup after a clean install.
 * [MAMP](https://www.mamp.info/en/)
 * [Hyper](https://hyper.is/)
 * [vscode](https://code.visualstudio.com/)
+* [Postman](https://www.postman.com/downloads/)
 
 
 ## Customise Apps

@@ -110,3 +110,7 @@ Temporary Items
 Accessibility > Display > Cursor > Uncheck Shake mouse pointer to locate
 
 Mouse > Secondary Click > Click on right side
+
+## Fonts
+* [IBM Plex](https://www.ibm.com/plex/)
+* [Montserrat](https://fonts.google.com/specimen/Montserrat)

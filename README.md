@@ -12,6 +12,7 @@ Some setup after a clean install.
 * [Hyper](https://hyper.is/)
 * [vscode](https://code.visualstudio.com/)
 * [Postman](https://www.postman.com/downloads/)
+* [ImageOptim](https://imageoptim.com/)
 
 
 ## Customise Apps

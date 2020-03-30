@@ -13,6 +13,7 @@ Some setup after a clean install.
 * [vscode](https://code.visualstudio.com/)
 * [Postman](https://www.postman.com/downloads/)
 * [ImageOptim](https://imageoptim.com/)
+* [Be Focused](https://xwavesoft.com/be-focused-pro-for-iphone-ipad-mac-os-x.html)
 
 
 ## Customise Apps

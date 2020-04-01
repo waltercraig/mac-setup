@@ -14,6 +14,7 @@ Some setup after a clean install.
 * [Postman](https://www.postman.com/downloads/)
 * [ImageOptim](https://imageoptim.com/)
 * [Be Focused](https://xwavesoft.com/be-focused-pro-for-iphone-ipad-mac-os-x.html)
+* [Codekit](https://codekitapp.com/)
 
 
 ## Customise Apps

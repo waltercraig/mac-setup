@@ -117,3 +117,4 @@ Mouse > Secondary Click > Click on right side
 ## Fonts
 * [IBM Plex](https://www.ibm.com/plex/)
 * [Montserrat](https://fonts.google.com/specimen/Montserrat)
+* [Open Sans](https://fonts.google.com/specimen/Open+Sans)

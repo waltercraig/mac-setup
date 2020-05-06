@@ -18,6 +18,10 @@ Some setup after a clean install.
 
 
 ## Customise Apps
+### Terminal
+* Install: https://draculatheme.com/terminal
+* Activate
+* Change font to IBM Plex mono - font size 18px
 
 ### Hyper
 * Hack here: ~/Library/Application Support/Hyper/.hyper.js

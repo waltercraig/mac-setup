@@ -5,7 +5,7 @@ Some setup after a clean install.
 
 ## Apps to instal 
 * [iA Writer](https://ia.net/writer)
-* [Invision Studio](https://www.invisionapp.com/studio)
+* [Affinity Suite](https://affinity.serif.com/en-gb/)
 * [Google Chrome](https://www.google.co.uk/intl/en_uk/chrome/)
 * [Firefox](https://www.mozilla.org/en-GB/firefox/new/)
 * [MAMP](https://www.mamp.info/en/)
@@ -15,6 +15,8 @@ Some setup after a clean install.
 * [ImageOptim](https://imageoptim.com/)
 * [Be Focused](https://xwavesoft.com/be-focused-pro-for-iphone-ipad-mac-os-x.html)
 * [Codekit](https://codekitapp.com/)
+* [Unarchiver](https://macpaw.com/the-unarchiver)
+* [transmit](https://www.panic.com/transmit/)
 
 
 ## Customise Apps

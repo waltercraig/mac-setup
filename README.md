@@ -8,16 +8,21 @@ Some setup after a clean install.
 * [Affinity Suite](https://affinity.serif.com/en-gb/)
 * [Google Chrome](https://www.google.co.uk/intl/en_uk/chrome/)
 * [Firefox](https://www.mozilla.org/en-GB/firefox/new/)
+* [Brave](https://brave.com/)
 * [MAMP](https://www.mamp.info/en/)
 * [Hyper](https://hyper.is/)
 * [vscode](https://code.visualstudio.com/)
 * [Postman](https://www.postman.com/downloads/)
 * [ImageOptim](https://imageoptim.com/)
-* [Be Focused](https://xwavesoft.com/be-focused-pro-for-iphone-ipad-mac-os-x.html)
 * [Codekit](https://codekitapp.com/)
 * [Unarchiver](https://macpaw.com/the-unarchiver)
-* [transmit](https://www.panic.com/transmit/)
-
+* [Transmit](https://www.panic.com/transmit/)
+* [Filezilla](https://filezilla-project.org/download.php?type=client)
+* [Figma](https://www.figma.com/)
+* [Skype](https://www.skype.com/en/)
+* [Discord](https://discord.com/)
+* [Camo](https://reincubate.com/camo/)
+* [Duet](https://www.duetdisplay.com/)
 
 ## Customise Apps
 ### Terminal
@@ -124,3 +129,7 @@ Mouse > Secondary Click > Click on right side
 * [IBM Plex](https://www.ibm.com/plex/)
 * [Montserrat](https://fonts.google.com/specimen/Montserrat)
 * [Open Sans](https://fonts.google.com/specimen/Open+Sans)
+
+## Keyboard
+System Preferences > Keyboard > Modifier Keys...
+[Image](https://i.imgur.com/FKTW6dQ.png)

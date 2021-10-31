@@ -133,3 +133,16 @@ Mouse > Secondary Click > Click on right side
 ## Keyboard
 System Preferences > Keyboard > Modifier Keys...
 [Image](https://i.imgur.com/FKTW6dQ.png)
+
+## Chrome Extensions 
+* [Window Resizer](https://chrome.google.com/webstore/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh/)
+* [ColorZilla](https://www.colorzilla.com/chrome/)
+* [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
+
+## Window Resizer
+* 1280 X 720 Video Casts
+* 768 X 1024 ipad rotate
+* 1024 X 768 iPad
+* 2200 X 900 Jas
+* 1366 X 768 Laptop
+* 1920 X 1080 Desktop

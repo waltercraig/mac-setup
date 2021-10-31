@@ -121,7 +121,7 @@ Temporary Items
 ```
 
 ## System Preferences 
-Accessibility > Display > Cursor > Uncheck Shake mouse pointer to locate
+Accessibility > Display > Pointer > Uncheck Shake mouse pointer to locate
 
 Mouse > Secondary Click > Click on right side
 

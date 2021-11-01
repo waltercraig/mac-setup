@@ -51,6 +51,7 @@ Open from command line ⇧+⌘+P and type shell command then select Install 'cod
 * vscode-icons - VSCode Icon Team
 * vscode styled components - Julien Poissonier 
 * Wordpress Snippets - wpdevtools.io
+* Live Server - Ritwick Dey
 
 ## Clean House (Some Mac customisations) 
 
@@ -80,8 +81,11 @@ In Terminal / Hyper
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 ```
 
-### Install Node 
-https://nodejs.org/en/
+### Install Node
+
+[node](https://nodejs.org/en/)
+
+[nodemon](https://github.com/remy/nodemon)
 
 ### Create Global .gitignore 
 ```

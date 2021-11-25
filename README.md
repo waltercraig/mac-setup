@@ -23,6 +23,8 @@ Some setup after a clean install.
 * [Discord](https://discord.com/)
 * [Camo](https://reincubate.com/camo/)
 * [Duet](https://www.duetdisplay.com/)
+* [Valentina](www.valentina-db.com)
+* [Postgres.app](https://postgresapp.com/)
 
 ## Customise Apps
 ### Terminal

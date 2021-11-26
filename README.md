@@ -54,6 +54,8 @@ Open from command line ⇧+⌘+P and type shell command then select Install 'cod
 * vscode styled components - Julien Poissonier 
 * Wordpress Snippets - wpdevtools.io
 * Live Server - Ritwick Dey
+* Unity Code Snippets - Kleber
+* C# - Microsoft
 
 ## Clean House (Some Mac customisations) 
 
